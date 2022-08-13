@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Siddharth Suresh (@siddhsuresh)
 ## 🚀 About Me
-Currently, I am a 3rd year student studying B.Tech in Computer Science at Vellore Institute of Technology, Chennai. 
+Currently, I am a 3rd year student studying B.Tech in Computer Science with Specialization in Cyber Physical Systems at Vellore Institute of Technology, Chennai. 
 ## 👀 My Interests
 I’m interested in fullstack web development and frontend designing
 ## 🛠 Skills
