@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @siddhsuresh (Siddharth Suresh)
+# 👋 Hi, I’m Siddharth Suresh (@siddhsuresh)
 ## 🚀 About Me
 Currently, I am a 3rd year student studying B.Tech in Computer Science at Vellore Institute of Technology, Chennai. 
 ## 👀 My Interests
