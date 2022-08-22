@@ -1,5 +1,6 @@
 # 👋 Hi, I’m Siddharth Suresh (@siddhsuresh)
 ![stats](https://github-readme-stats.vercel.app/api?username=siddhsuresh&theme=gotham&show_icons=true)
+
 ![weekly](https://github-readme-streak-stats.herokuapp.com/?user=siddhsuresh&theme=blueberry)
 
 ## 🚀 About Me
