@@ -1,10 +1,12 @@
 # 👋 Hi, I’m Siddharth Suresh (@siddhsuresh)
-![stats](https://github-readme-stats.vercel.app/api?username=siddhsuresh&theme=gotham&show_icons=true)
 
 ![weekly](https://github-readme-streak-stats.herokuapp.com/?user=siddhsuresh&theme=blueberry)
 
 ## 🚀 About Me
 Currently, I am a 3rd year student studying B.Tech in Computer Science with Specialization in Cyber Physical Systems at Vellore Institute of Technology, Chennai. 
+
+![stats](https://github-readme-stats.vercel.app/api?username=siddhsuresh&theme=gotham&show_icons=true)
+
 ## 👀 My Interests
 I’m interested in fullstack web development and frontend designing
 ## 🛠 Skills
