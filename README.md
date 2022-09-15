@@ -16,7 +16,7 @@ Next.js, Blitz.js, React, Javascript, Typescript, HTML, CSS, C++, Django, Python
 - I’m looking to collaborate on any open source repository related to web development
 
 ## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/siddhsuresh/) - 🚧 **Under Development**
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://siddharthsuresh.vercel.app/)
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/siddharth-sureshn/)
 
