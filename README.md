@@ -12,6 +12,7 @@ I’m interested in fullstack web development and frontend designing
 ## 🛠 Skills
 Next.js, Blitz.js, React, Javascript, Typescript, HTML, CSS, C++, Django, Python
 ## 🌱 What I am doing
+- Contributing to the blitz.js framework
 - I’m currently learning **astro** and **sveltekit**
 - I’m looking to collaborate on any open source repository related to web development
 
