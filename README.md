@@ -16,6 +16,10 @@ Next.js, Blitz.js, React, Javascript, Typescript, HTML, CSS, C++, Django, Python
 - I’m currently learning **astro** and **sveltekit**
 - I’m looking to collaborate on any open source repository related to web development
 
+<!--START_SECTION:waka-->
+
+<!--END_SECTION:waka-->
+
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-011039?style=for-the-badge&logo=ko-fi&logoColor=29fc9b)](https://siddharthsuresh.vercel.app/)
 
