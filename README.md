@@ -18,6 +18,15 @@ Next.js, Blitz.js, React, Javascript, Typescript, HTML, CSS, C++, Django, Python
 
 <!--START_SECTION:waka-->
 
+```text
+From: 20 October 2022 - To: 21 October 2022
+
+Total Time: 0 secs
+
+CSS     0 secs          ████████████████████████▓   98.98 %
+Astro   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.02 %
+```
+
 <!--END_SECTION:waka-->
 
 ## 🔗 Links
