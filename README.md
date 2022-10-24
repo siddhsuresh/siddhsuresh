@@ -39,6 +39,7 @@ CSS          0 secs          ▒░░░░░░░░░░░░░░░░
 [![twitter](https://img.shields.io/badge/twitter-black?style=for-the-badge&logo=twitter&logoColor=0A66C2)](https://twitter.com/_siddhsuresh)
 
 <!---
+![stats](https://github-contribution-graph.ez4o.com/?username=siddhsuresh&last_n_days=10)
 siddhsuresh/siddhsuresh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
