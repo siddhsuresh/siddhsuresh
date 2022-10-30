@@ -19,7 +19,7 @@ Next.js, Blitz.js, React, Javascript, Typescript, HTML, CSS, C++, Django, Python
 <!--START_SECTION:waka-->
 
 ```text
-From: 20 October 2022 - To: 27 October 2022
+From: 20 October 2022 - To: 28 October 2022
 
 Total Time: 46 mins
 
