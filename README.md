@@ -19,14 +19,13 @@ Next.js, Blitz.js, React, Javascript, Typescript, HTML, CSS, C++, Django, Python
 <!--START_SECTION:waka-->
 
 ```text
-From: 20 October 2022 - To: 29 October 2022
+From: 20 October 2022 - To: 30 October 2022
 
-Total Time: 46 mins
+Total Time: 1 hr 13 mins
 
-Astro        42 mins         ██████████████████████▓░░   90.08 %
-JavaScript   2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.32 %
-Text         1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   04.24 %
-CSS          0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.35 %
+Astro        42 mins         ██████████████▒░░░░░░░░░░   57.91 %
+TypeScript   18 mins         ██████▒░░░░░░░░░░░░░░░░░░   24.82 %
+Other        3 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.31 %
 ```
 
 <!--END_SECTION:waka-->
