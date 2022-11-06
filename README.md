@@ -8,27 +8,34 @@ I am a self taught web developer and open-source contributer, enthusiastic about
 ## 🛠 Skills
 
 ### Web Development
+
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) <a href="https://blitzjs.com"><img src="https://user-images.githubusercontent.com/83594610/200160432-d97e45ea-371d-4f9a-a83d-da505bc04057.png" alt="Blitz.js" width="70"/> </a>![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) <img src="https://user-images.githubusercontent.com/83594610/200160836-8d8077ee-2aee-4b8a-a3a6-7a37ed935ab5.png" alt="Astro" width="75"/> <a href="https://mantine.dev/"><img src="https://user-images.githubusercontent.com/83594610/200160775-1b62c712-30e2-4863-a51b-db218dcc5289.png" alt="Mantine.dev" width="100"/> </a> ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Threejs](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white)
 
 ### Design
+
 ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![CodePen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)
 
 I am continuosly improving my design skills for UI/UX of my web projects
 
 ### Monorepo Development
+
 <a href="https://turbo.build/"><img src="https://user-images.githubusercontent.com/83594610/200160320-d982d1ab-7259-410c-b4d8-4ae4ce3d18f3.png" alt="turborepo" width="110"/></a><a href="https://pnpm.io/"><img src="https://user-images.githubusercontent.com/83594610/200160335-97ca93e7-5809-46a8-a80b-f9a551449221.png" alt="pnpm" width="75"/></a>
 
 ### Databases
+
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 	![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
 
 ### CI/CD
+
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 
 ### Codemods / File Parsing
-<img src="https://user-images.githubusercontent.com/83594610/200168314-84a70855-1210-488c-a42a-51684c0de094.png" width="100"/></a> <a href="https://swc.rs/"><img src="https://user-images.githubusercontent.com/83594610/200168429-ae20f155-31ef-4486-9289-1b202968bab8.png" width="100"/></a><a href="https://github.com/facebook/jscodeshift">
+
+<a href="https://github.com/facebook/jscodeshift"><img src="https://user-images.githubusercontent.com/83594610/200168314-84a70855-1210-488c-a42a-51684c0de094.png" width="100"/></a> <a href="https://swc.rs/"><img src="https://user-images.githubusercontent.com/83594610/200168429-ae20f155-31ef-4486-9289-1b202968bab8.png" width="100"/></a><a href="https://github.com/facebook/jscodeshift">
 
 ### Embedded Programming
+ 
 #### Software
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) <img src="https://user-images.githubusercontent.com/83594610/200159993-dd3094ee-311f-41f0-bc9f-191247515ad2.png" alt="Logo_freeRTOS" width="85"/>
 #### Hardware
@@ -50,8 +57,8 @@ ESP8266 and ESP32 Microcontrollers
 ## Open Source Contribution
 
 ### [**Level 1 Maintainer in Blitz.js**](https://github.com/blitz-js/blitz/#maintainers-level-1-)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=siddhsuresh&theme=nightowl&hide_border=true&border_radius=4.7)
+ 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=siddhsuresh&theme=default) 
 
 ## Tech Stacks Used by Me
 
