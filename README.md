@@ -55,7 +55,7 @@ ESP8266 and ESP32 Microcontrollers
 ### Editors
 ![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
-## Open Source Contribution
+## Open Source Contributions
 
 ### [**Level 1 Maintainer in Blitz.js**](https://github.com/blitz-js/blitz/#maintainers-level-1-)
 
