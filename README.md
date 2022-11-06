@@ -14,11 +14,10 @@ I am a self taught web developer and open-source contributer, enthusiastic about
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) <a href="https://blitzjs.com"><img src="https://user-images.githubusercontent.com/83594610/200160432-d97e45ea-371d-4f9a-a83d-da505bc04057.png" alt="Blitz.js" width="70"/> </a>![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) <img src="https://user-images.githubusercontent.com/83594610/200160836-8d8077ee-2aee-4b8a-a3a6-7a37ed935ab5.png" alt="Astro" width="75"/> <a href="https://mantine.dev/"><img src="https://user-images.githubusercontent.com/83594610/200160775-1b62c712-30e2-4863-a51b-db218dcc5289.png" alt="Mantine.dev" width="100"/> </a> ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Threejs](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white)
 
 ### Design
+Constantly working to improve my design skills for UI/UX of my projects
 
 ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![CodePen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)
-
-I am continuosly improving my design skills for UI/UX of my web projects
 
 ### Monorepo Development
 
