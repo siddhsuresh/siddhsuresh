@@ -26,7 +26,7 @@ ESP8266 and ESP32 Microcontrollers
 ### Currently Learning
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 
-## Open Source Contriubtion
+## Open Source Contribution
 
 ### [**Level 1 Maintainer in Blitz.js**](https://github.com/blitz-js/blitz/#maintainers-level-1-)
 
