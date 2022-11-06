@@ -5,6 +5,8 @@ I am an aspiring full stack developer and a student at Vellore Institute of Tech
 
 I am a self taught web developer and open-source contributer, enthusiastic about learning and experimenting with latest technologies.
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=siddhsuresh&theme=default) 
+
 ## 🛠 Skills
 
 ### Web Development
@@ -57,8 +59,8 @@ ESP8266 and ESP32 Microcontrollers
 ## Open Source Contribution
 
 ### [**Level 1 Maintainer in Blitz.js**](https://github.com/blitz-js/blitz/#maintainers-level-1-)
- 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=siddhsuresh&theme=default) 
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=siddhsuresh&theme=github-dark-blue&hide_border=true)](https://git.io/streak-stats)
 
 ## Tech Stacks Used by Me
 
