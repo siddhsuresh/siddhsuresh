@@ -17,7 +17,7 @@ I am a self taught web developer and open-source contributer, enthusiastic about
 I am continuosly improving my design skills for UI/UX of my web projects
 
 ### Monorepo Development
-![image](https://user-images.githubusercontent.com/83594610/200160320-d982d1ab-7259-410c-b4d8-4ae4ce3d18f3.png) ![image](https://user-images.githubusercontent.com/83594610/200160335-97ca93e7-5809-46a8-a80b-f9a551449221.png)
+<img src="https://user-images.githubusercontent.com/83594610/200160320-d982d1ab-7259-410c-b4d8-4ae4ce3d18f3.png" alt="turborepo" width="110"/> <img src="https://user-images.githubusercontent.com/83594610/200160335-97ca93e7-5809-46a8-a80b-f9a551449221.png" alt="pnpm" width="75"/>
 
 
 ### CI/CD
