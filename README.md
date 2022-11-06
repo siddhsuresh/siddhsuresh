@@ -25,6 +25,9 @@ I am continuosly improving my design skills for UI/UX of my web projects
 ### CI/CD
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 
+### Codemods / File Parsing
+<img src="https://user-images.githubusercontent.com/83594610/200168314-84a70855-1210-488c-a42a-51684c0de094.png" width="100"/></a> <a href="https://swc.rs/"><img src="https://user-images.githubusercontent.com/83594610/200168241-379281ea-d3b9-46b5-bbcb-e53e253d6d94.png" width="100"/></a><a href="https://github.com/facebook/jscodeshift">
+
 ### Embedded Programming
 #### Software
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) <img src="https://user-images.githubusercontent.com/83594610/200159993-dd3094ee-311f-41f0-bc9f-191247515ad2.png" alt="Logo_freeRTOS" width="85"/>
