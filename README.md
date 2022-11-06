@@ -57,7 +57,7 @@ ESP8266 and ESP32 Microcontrollers
 
 ## Open Source Contributions
 
-### [**Level 1 Maintainer in Blitz.js**](https://github.com/blitz-js/blitz/#maintainers-level-1-)
+### [**Level 1 Maintainer in Blitz.js**](https://github.com/blitz-js/blitz/#maintainers-level-1-) [September 2022 - present]
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=siddhsuresh&theme=github-dark-blue&hide_border=true)](https://git.io/streak-stats)
 
