@@ -7,6 +7,10 @@ I am a self taught web developer and open-source contributer, enthusiastic about
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=siddhsuresh&theme=default) 
 
+# Contact Me
+
+[✉️ Send Me an Email - siddharth@siddharthsuresh.me](mailto:siddharth@siddharthsuresh.me)
+
 ## 🛠 Skills
 
 ### Web Development
