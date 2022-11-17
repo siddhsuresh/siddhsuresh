@@ -3,7 +3,7 @@
 ## 🚀 About Me
 I am an aspiring full stack developer and a student at Vellore Institute of Technology, Chennai. Currenly pursuing B.Tech in Computer Science with a Specialization in Cyber Physcical Systems
 
-I am a self taught web developer and open-source contributer, enthusiastic about learning and experimenting with latest technologies.
+I am a self taught web developer, an open-source contributer and enthusiastic about learning and experimenting with latest technologies.
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=siddhsuresh&theme=default) 
 
