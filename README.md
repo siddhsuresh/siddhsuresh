@@ -1,11 +1,11 @@
 # 👋 Hey, I’m Siddharth Suresh
 
+[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=siddhsuresh)](https://github.com/LordDashMe/github-contribution-stats/)
+
 ## 🚀 About Me
 I am an aspiring full stack developer and a student at Vellore Institute of Technology, Chennai. Currenly pursuing B.Tech in Computer Science with a Specialization in Cyber Physcical Systems
 
 I am a self taught web developer, an open-source contributer and enthusiastic about learning and experimenting with latest technologies.
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=siddhsuresh&theme=default) 
 
 # ✉️ Contact Me
 
@@ -63,7 +63,7 @@ ESP8266 and ESP32 Microcontrollers
 
 ### [**Level 1 Maintainer in Blitz.js**](https://github.com/blitz-js/blitz/#maintainers-level-1-) [September 2022 - present]
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=siddhsuresh&theme=github-dark-blue&hide_border=true)](https://git.io/streak-stats)
+<!-- [![GitHub Streak](https://streak-stats.demolab.com?user=siddhsuresh&theme=github-dark-blue&hide_border=true)](https://git.io/streak-stats) -->
 
 ## Tech Stacks Used by Me
 
@@ -80,6 +80,8 @@ ESP8266 and ESP32 Microcontrollers
 
 ### Static Site Generation
 <img src="https://user-images.githubusercontent.com/83594610/200160836-8d8077ee-2aee-4b8a-a3a6-7a37ed935ab5.png" alt="Astro" width="75"/> ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+ 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=siddhsuresh&theme=default) 
 
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-011039?style=for-the-badge&logo=ko-fi&logoColor=29fc9b)](https://siddharthsuresh.vercel.app/)
