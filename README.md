@@ -7,9 +7,9 @@ I am an aspiring full stack developer and a student at Vellore Institute of Tech
 
 I am a self taught web developer, an open-source contributer and enthusiastic about learning and experimenting with latest technologies.
 
-# ✉️ Contact Me
+<!-- # ✉️ Contact Me
 
-[Send Me an Email - siddharth@siddharthsuresh.me](mailto:siddharth@siddharthsuresh.me)
+[Send Me an Email - siddharth@siddharthsuresh.me](mailto:siddharth@siddharthsuresh.me) -->
 
 ## 🛠 Skills
 
@@ -61,7 +61,7 @@ ESP8266 and ESP32 Microcontrollers
 
 ## Open Source Contributions
 
-### [**Level 1 Maintainer in Blitz.js**](https://github.com/blitz-js/blitz/#maintainers-level-1-) [September 2022 - present]
+### [**Blitz.js**](https://github.com/blitz-js/blitz/#maintainers-level-1-)
 
 <!-- [![GitHub Streak](https://streak-stats.demolab.com?user=siddhsuresh&theme=github-dark-blue&hide_border=true)](https://git.io/streak-stats) -->
 
