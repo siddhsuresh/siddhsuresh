@@ -84,9 +84,9 @@ ESP8266 and ESP32 Microcontrollers
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=siddhsuresh&theme=default) 
 
 ## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-011039?style=for-the-badge&logo=ko-fi&logoColor=29fc9b)](https://siddharthsuresh.vercel.app/)
+<!-- [![portfolio](https://img.shields.io/badge/my_portfolio-011039?style=for-the-badge&logo=ko-fi&logoColor=29fc9b)](https://siddharthsuresh.vercel.app/) -->
 [![linkedin](https://img.shields.io/badge/linkedin-black?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/siddharth-sureshn/)
-[![twitter](https://img.shields.io/badge/twitter-black?style=for-the-badge&logo=twitter&logoColor=0A66C2)](https://twitter.com/_siddhsuresh)
+<!-- [![twitter](https://img.shields.io/badge/twitter-black?style=for-the-badge&logo=twitter&logoColor=0A66C2)](https://twitter.com/_siddhsuresh) -->
 [![CodePen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/siddhsuresh)
 
 <!---
