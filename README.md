@@ -90,8 +90,3 @@ ESP8266 and ESP32 Microcontrollers
 <!-- [![twitter](https://img.shields.io/badge/twitter-black?style=for-the-badge&logo=twitter&logoColor=0A66C2)](https://twitter.com/_siddhsuresh) -->
 [![CodePen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/siddhsuresh)
 
-<!---
-![stats](https://github-contribution-graph.ez4o.com/?username=siddhsuresh&last_n_days=10)
-siddhsuresh/siddhsuresh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
