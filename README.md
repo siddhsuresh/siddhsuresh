@@ -3,6 +3,7 @@
 [![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=siddhsuresh)](https://github.com/LordDashMe/github-contribution-stats/)
 
 ## 🚀 About Me
+
 I am a student at Vellore Institute of Technology, Chennai. Currenly pursuing B.Tech in Computer Science with a Specialization in Cyber Physcical Systems
 
 I am a self taught full stack developer, an open-source contributer and enthusiastic about learning and experimenting with latest technologies.
