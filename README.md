@@ -43,7 +43,7 @@ Constantly working to improve my design skills for UI/UX of my projects
 ### Embedded Programming
  
 #### Software
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) <img src="https://user-images.githubusercontent.com/83594610/200159993-dd3094ee-311f-41f0-bc9f-191247515ad2.png" alt="Logo_freeRTOS" width="85"/>
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) <img src="https://user-images.githubusercontent.com/83594610/200159993-dd3094ee-311f-41f0-bc9f-191247515ad2.png" alt="Logo_freeRTOS" width="85"/> Micropython
 #### Hardware
 ESP8266 and ESP32 Microcontrollers
 
