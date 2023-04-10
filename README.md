@@ -8,9 +8,9 @@ I am a student at Vellore Institute of Technology, Chennai. Currenly pursuing B.
 
 I am a self taught full stack developer, an open-source contributer and enthusiastic about learning and experimenting with latest technologies.
 
-<!-- # ✉️ Contact Me
+# ✉️ Contact Me
 
-[Send Me an Email - siddharth@siddharthsuresh.me](mailto:siddharth@siddharthsuresh.me) -->
+[Send Me an Email - siddharth@siddharthsuresh.me](mailto:siddharth@siddharthsuresh.me)
 
 ## 🛠 Skills
 
