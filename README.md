@@ -83,6 +83,8 @@ ESP8266 and ESP32 Microcontrollers
 <img src="https://user-images.githubusercontent.com/83594610/200160836-8d8077ee-2aee-4b8a-a3a6-7a37ed935ab5.png" alt="Astro" width="75"/> ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
  
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=siddhsuresh&theme=default) 
+ 
+![Repository Stats](https://api.githubtrends.io/user/svg/siddhsuresh/repos?time_range=one_year&loc_metric=changed&theme=classic)
 
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-011039?style=for-the-badge&logo=ko-fi&logoColor=29fc9b)](https://siddharthsuresh.me/)
