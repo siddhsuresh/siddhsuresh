@@ -85,10 +85,6 @@ ESP8266 and ESP32 Microcontrollers
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=siddhsuresh&theme=default) 
 <div style="display:flex;flex-direction:row;align-items:center; justify-content:center; gap:10px">
  
-![Repository Stats](https://api.githubtrends.io/user/svg/siddhsuresh/repos?time_range=one_year&loc_metric=changed&theme=classic)
- 
-![](https://api.githubtrends.io/user/svg/siddhsuresh/langs?time_range=one_year&include_private=True&loc_metric=changed&theme=classic)
- 
  </div>
 
 ## 🔗 Links
