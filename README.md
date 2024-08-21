@@ -4,7 +4,7 @@
 
 ## 🚀 About Me
 
-B.Tech in Computer Science with a Specialization in Cyber Physcical Systems from VIT
+B.Tech in Computer Science with a Specialization in Cyber Physcical Systems from Vellore Institute of Technolody, Chennai Campus
 
 I am a self taught full stack developer, an open-source contributer and enthusiastic about learning and experimenting with latest technologies.
 
