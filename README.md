@@ -10,7 +10,7 @@ I am a self taught full stack developer, an open-source contributer and enthusia
 
 # ✉️ Contact Me
 
-[Send Me an Email - siddharth@siddharthsuresh.me](mailto:siddharth@siddharthsuresh.me)
+[Send Me an Email - siddh.suresh@gmail.com](mailto:siddh.suresh@gmail.com)
 
 ## 🛠 Skills
 
