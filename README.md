@@ -4,7 +4,7 @@
 
 ## 🚀 About Me
 
-I am a student at Vellore Institute of Technology, Chennai. Currenly pursuing B.Tech in Computer Science with a Specialization in Cyber Physcical Systems
+B.Tech in Computer Science with a Specialization in Cyber Physcical Systems from VIT
 
 I am a self taught full stack developer, an open-source contributer and enthusiastic about learning and experimenting with latest technologies.
 
