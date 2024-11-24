@@ -4,7 +4,7 @@
 
 ## 🚀 About Me
 
-B.Tech in Computer Science with a Specialization in Cyber Physcical Systems from Vellore Institute of Technolody, Chennai Campus
+B.Tech in Computer Science with a Specialization in Cyber Physical Systems from Vellore Institute of Technolody, Chennai Campus
 
 I am a self taught full stack developer, an open-source contributer and enthusiastic about learning and experimenting with latest technologies.
 
@@ -15,7 +15,7 @@ timeline
         2023 : Core Team Member at Blitz.js
              : Software Engineering Intern at Flightcontrol
         2024 : Junior Software Engineer at Flightcontrol
-    section B. Tech in Computer Science in VIT Chennai
+    section B. Tech in Computer Science Specialization in Cyber Physical Systems
         2021 : Library Management System (Django)
             : Voice Controlled Fan (ESP8266, ML, Socket.io)
         2022 : MRI Classifier System (tensorflow, streamlit)
